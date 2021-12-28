@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    
+}
+header img {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    text-align: center;
+}
+body {
+    background-color: white;
+}
+.ayubxon {
+    width: 1000px;
+   border-radius: 30px;
+   text-align: center;
+}
+main ul {
+    border-radius: 20px;
+    border: 10px double navajowhite;
+    }
+    .ayub {
+        width: 500px;
+    }
+    .yusufxon {
+        text-align: center;
+    }
